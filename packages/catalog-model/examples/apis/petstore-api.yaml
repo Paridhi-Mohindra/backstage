@@ -9,7 +9,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-c
+  owner: oba-team
   definition: |
     openapi: "3.0.0"
     info:
