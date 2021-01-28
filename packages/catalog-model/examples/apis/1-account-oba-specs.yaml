@@ -24,7 +24,7 @@ spec:
         url: https://www.openbanking.org.uk/open-licence
       version: v3.1.6
     servers:
-    - url: https://fzoomv2a4a.execute-api.us-east-2.amazonaws.com/alpha/accounts-service
+    - url: https://virtserver.swaggerhub.com/akashchandwani7/obs-account-info/v3.1.6
     paths:
       /account-access-consents:
         post:
