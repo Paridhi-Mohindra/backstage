@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Account
-  description: OBA Account API
+  name: Payment Initiation
+  description: OBA Payment API
   tags:
     - oba
-    - account
+    - payments
 spec:
   openapi: 3.0.1
   info:
