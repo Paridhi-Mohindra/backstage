@@ -10,3 +10,6 @@ spec:
   providesApis:
     - Payment
     - Account
+  consumesApis:
+    - Payment
+    - Account
